@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\administrator\desktop\图像处理课设\高斯滤波\高斯滤波\高斯滤波\源.cpp(26): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\图像处理课设\高斯滤波\高斯滤波\高斯滤波\源.cpp(48): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\图像处理课设\高斯滤波\高斯滤波\高斯滤波\源.cpp(118): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  高斯滤波.vcxproj -> C:\Users\Administrator\Desktop\图像处理课设\高斯滤波\高斯滤波\x64\Debug\高斯滤波.exe
